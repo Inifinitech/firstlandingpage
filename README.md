@@ -1,0 +1,1 @@
+A static landing page with design images using HTML and CSS (flexbox)
